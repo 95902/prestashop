@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'Khyo',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '3y7XCK3eyiKRxd9WL2PVEEwXzWvgCNw2F1NuB4h0WAhkOwfLUO8GJ9n6ySNkZNQd',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-02-17',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'q2TP907QUIOH14YzDRyzLBSpvUOQw9CyTfeYCntg78XA03ixza0gWoyY5nkqy33T',
+    'cookie_iv' => 'DMtHAb3eAJ9AOSY3YUbHJMeZ8fEd1yAj',
+    'new_cookie_key' => 'def00000d534f91f6979f0ca8e6944fe6161583027c85b34770dfe4f8c30f598dd74f840ccf19d6a0575835a549607fb797c77b180db9b6cc2b50a43af818826634868c7',
+  ),
+);
